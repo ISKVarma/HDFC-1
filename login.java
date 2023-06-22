@@ -1,5 +1,7 @@
 public class pattern{  
 public static void main(String[] args){  
+#variables declaration MARK 22/06/23
+# i and j
 int lines=10;  
 int i=1;  
 int j;  
